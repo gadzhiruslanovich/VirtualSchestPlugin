@@ -1,0 +1,20 @@
+{
+  "Group": "com.virtualchest",
+  "Name": "VirtualSchest",
+  "Version": "1.0.0",
+  "Description": "Плагин на виртуальный сундук.",
+  "Authors": [
+    {
+      "Name": "Gadzhiev Gadzi",
+      "Email": "gadzhiruslanovich@gmail.com",
+      "Url": "https://github.com/gadzhiruslanovich"
+    }
+  ],
+  "Website": "https://github.com/gadzhiruslanovich",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "Main": "com.virtualchest.VirtualChestPlugin"
+}
