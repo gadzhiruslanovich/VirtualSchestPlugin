@@ -6,3 +6,5 @@ The plugin allows you to create and use virtual chests that are not tied to phys
 ```bash
 /virtualchest - open virtual chest
 ```
+
+![Virtual chest example](images/virtualchest.png)

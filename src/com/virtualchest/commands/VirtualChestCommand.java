@@ -21,6 +21,7 @@ public class VirtualChestCommand extends AbstractPlayerCommand {
 
     public VirtualChestCommand() {
         super("virtualchest", "Открывает виртуальный сундук");
+        setPermissionGroups("virtualchest.management");
     }
 
     @Override
